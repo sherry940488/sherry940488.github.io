@@ -1,0 +1,170 @@
+/* INDEX PAGE */
+
+#header {
+	background-color: black;
+	margin: px;
+	padding: 20px;
+	height: 20%;
+	margin-bottom: 0.5%;
+}
+
+div div ul {
+	text-align: right;
+}
+
+div div ul li {
+	display: inline;
+	padding-right: 3em;
+}
+
+div div ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+
+#title {
+	float: left;
+	height: 2em;
+	padding-top: 0.2em;
+	padding-left: 1.5em;
+	font-family: 'Lobster Two', cursive;
+	font-size: 3.5em;
+	color: #00F2B1;
+}
+
+
+#nav {
+	height: 2em;
+	float: right;
+	padding-top: 0.5em;
+	font-family: 'Abel', sans-serif;
+	font-size: 1.5em;
+}
+
+#center {
+	display: inline-block;
+}
+
+#image1 {
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+#image2 {
+	width: 33%;
+	height: 100%;
+	margin-left: 0.5%;
+}
+
+#image3 {
+	width: 33%;
+	height: 100%;
+	float: right;
+}
+
+div h2 {
+	position: absolute;
+}
+
+
+
+
+
+/* MENU PAGE */
+
+table {
+	border: none;
+}
+
+.menupics {
+	width: 22em;
+	height: 22em;
+}
+
+#menu {
+	border: 1%;
+	border-color: gray;
+	margin-left: 16%;
+	margin-right: 16%;
+}
+
+
+
+
+
+/* ABOUT PAGE */
+
+#about {
+	background-color: #E8E8E8;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 3%;
+	font-family: 'Abel', sans-serif;
+}
+
+
+
+
+
+/* SECRET STUFF */
+
+.jTransform {
+	color: red;
+    -webkit-transition: width 1s, height 1s,-webkit-transform 1s;  /* For Safari 3.1 to 6.0 */
+    transition: width 1s, height 1s, transform 1s;
+}
+
+#secretdeal {
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size: 300%;
+}
+
+.jTransform2 {
+	-ms-transform: scale(1.5,1.5); /* IE 9 */
+    -webkit-transform: scale(1.5,1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5,1.5);
+	-webkit-transition: width 1s, height 1s,-webkit-transform 1s;  /* For Safari 3.1 to 6.0 */
+    transition: width 1s, height 1s, transform 1s;
+}
+
+.secret2 {
+	margin: auto;
+	width: 20%;
+	padding: 1%;
+	font-family: 'Lobster Two', cursive;
+	text-align: center;
+	border-style: solid;
+}
+
+.secret2 a {
+	text-decoration: none;
+	color: black;
+}
+
+.secret3 {
+	margin: auto;
+	margin-top: 5%;
+	width: 20%;
+	padding: 1%;
+	font-family: 'Lobster Two', cursive;
+	text-align: center;
+	border-style: solid;
+}
+
+.secret3 a {
+	text-decoration: none;
+	color: black;
+}
+
+.happy {
+	display: none;
+	margin-left: 36%;
+}
+
+.sad {
+	display: none;
+	margin-left: 36%;
+}
